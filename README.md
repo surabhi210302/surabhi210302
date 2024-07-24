@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/112IIPReiSW5iPwxcUxWUeNz5SoQ4_n1o/view?usp=sharing](https://drive.google.com/file/d/112IIPReiSW5iPwxcUxWUeNz5SoQ4_n1o/view?usp=sharing)
 
-- ⚡ Extraabout me: **I am a Welcoming person😊**
+- ⚡ Extra about me: **I am a Welcoming person😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
