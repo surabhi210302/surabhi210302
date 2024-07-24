@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as intern at **EscenceWebIT, Pune**
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently learning new concepts related to **Full stack development**
 
 - 👨‍💻 My Portfolio [https://surabhi210302.github.io/Personal-portfolio/](https://surabhi210302.github.io/Personal-portfolio/)
 
