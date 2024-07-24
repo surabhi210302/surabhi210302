@@ -9,8 +9,6 @@
 
 - 👨‍💻 My Portfolio [https://surabhi210302.github.io/Personal-portfolio/](https://surabhi210302.github.io/Personal-portfolio/)
 
-- 📝 My Projects are uploaded at [https://github.com/surabhi210302/surabhi210302](https://github.com/surabhi210302/surabhi210302)
-
 - 📫 How to reach me **surabhi.jamadade@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/112IIPReiSW5iPwxcUxWUeNz5SoQ4_n1o/view?usp=sharing](https://drive.google.com/file/d/112IIPReiSW5iPwxcUxWUeNz5SoQ4_n1o/view?usp=sharing)
